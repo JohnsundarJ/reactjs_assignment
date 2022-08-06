@@ -1,0 +1,1 @@
+export const resource = "https://media-content.ccbp.in/website/react-assignment/resources.json";
