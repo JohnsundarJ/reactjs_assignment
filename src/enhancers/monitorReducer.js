@@ -6,7 +6,7 @@ const monitorReducerEnhancer =
       // const start = performance.now()
       const newState = reducer(state, action)
       // const end = perforance.now()
-      // const diff = round(end - start)
+      // const diff = round(end - star)
 
       return newState
     }
